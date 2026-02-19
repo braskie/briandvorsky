@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brian Dvorsky</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Brian Dvorsky</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>youremail@example.com (Brian Dvorsky)</managingEditor>
+    <webMaster>youremail@example.com (Brian Dvorsky)</webMaster>
+    <copyright>© 2026 Brian Dvorsky</copyright>
+    <lastBuildDate>Wed, 18 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Resume</title>
+      <link>//localhost:1313/resume/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Brian Dvorsky)</author>
+      <guid>//localhost:1313/resume/</guid>
+      <description>&lt;ol class=&#34;border-s-2 border-primary-500 dark:border-primary-300 list-none&#34;&gt;&#xD;&#xA;&#xD;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;li&gt;&#xA;  &lt;div class=&#34;flex&#34;&gt;&#xA;    &lt;div&#xA;      class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full ltr:-ml-12 rtl:-mr-[79px] mt-5&#34;&gt;&#xA;      &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 640 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M0 336c0 79.5 64.5 144 144 144l368 0c70.7 0 128-57.3 128-128c0-61.9-44-113.6-102.4-125.4c4.1-10.7 6.4-22.4 6.4-34.6c0-53-43-96-96-96c-19.7 0-38.1 6-53.3 16.2C367 64.2 315.3 32 256 32C167.6 32 96 103.6 96 192c0 2.7 .1 5.4 .2 8.1C40.2 219.8 0 273.2 0 336z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;block p-6 rounded-lg shadow-2xl flex-1 ms-6 mb-10 break-words&#34;&gt;&#xA;      &lt;div class=&#34;flex justify-between&#34;&gt;&#xA;        &#xA;          &lt;h2 class=&#34;mt-0&#34;&gt;Data Manager&lt;/h2&gt;&#xA;        &#xA;        &#xA;          &lt;h3 class=&#34;&#34;&gt;&#xA;            &lt;span class=&#34;flex cursor-pointer&#34;&gt;&#xA;  &lt;span&#xA;    class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;&#xA;    2026 - Present&#xA;  &lt;/span&gt;&#xA;&lt;/span&gt;&#xA;&#xA;          &lt;/h3&gt;&#xA;        &#xA;      &lt;/div&gt;&#xA;      &#xA;      &lt;div class=&#34;mb-6&#34;&gt;&#xA;        &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.sunprairieschools.org/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Sun Prairie Area School District&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Lead a team in maintaining secure student, employee, and guardian databases, automate identity lifecycle management, and ensure data interoperability and permission-driven access for over 9,000 users across 25+ systems.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>//localhost:1313/resume_alt/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Brian Dvorsky)</author>
+      <guid>//localhost:1313/resume_alt/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Experience&#xA;    &lt;div id=&#34;experience&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#experience&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&#xA;&lt;h3 class=&#34;relative group&#34;&gt;Data Manager&#xA;    &lt;div id=&#34;data-manager&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#data-manager&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.sunprairieschools.org/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Sun Prairie Area School District&lt;/a&gt;&lt;br&gt;&#xA;October 2016 — &lt;em&gt;Present&lt;/em&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>DIY Sizing a new furnace</title>
+      <link>//localhost:1313/posts/furnace/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Brian Dvorsky)</author>
+      <guid>//localhost:1313/posts/furnace/</guid>
+      <description>How I used thermostat data to determine the right furnace size for my home instead of relying solely on contractor recommendations.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/furnace/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
