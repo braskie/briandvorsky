@@ -4,6 +4,7 @@ date: 2024-07-23
 draft: true
 tags:
   - Home Improvement
+  - DIY
 showTableOfContents: true
 summary: How I used thermostat data to determine the right furnace size for my home instead of relying solely on contractor recommendations.
 ---
