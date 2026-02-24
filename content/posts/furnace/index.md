@@ -1,7 +1,7 @@
 ---
 title: DIY Sizing a new furnace
 date: 2024-07-23
-draft: false
+draft: true
 tags:
   - Home Improvement
 showTableOfContents: true
