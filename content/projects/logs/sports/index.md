@@ -3,7 +3,13 @@ showTableOfContents: true
 title: Sports
 showbreadcrumbs: true
 layout: simple
+showHero: true
+heroStyle: background
+showDate: false
+showReadingTime: false
+layoutBackgroundHeaderSpace: true
 summary: Sporting events that I have attended.
+featuredImage: featured_duckpond.jpg
 ---
 Sporting events that I have attended.
 

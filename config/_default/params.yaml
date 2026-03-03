@@ -54,13 +54,13 @@ article:
   heroStyle: "background"
   layoutBackgroundBlur: true
   layoutBackgroundHeaderSpace: true
-  showBreadcrumbs: false
+  showBreadcrumbs: true
   showDraftLabel: true
   showEdit: false
   editAppendPath: true
   seriesOpened: false
   showHeadingAnchors: true
-  showPagination: true
+  showPagination: false
   invertPagination: false
   showReadingTime: true
   showTableOfContents: false
