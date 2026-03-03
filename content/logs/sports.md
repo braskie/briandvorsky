@@ -1,7 +1,9 @@
 ---
 showTableOfContents: true
 title: Sports
+showbreadcrumbs: true
 layout: simple
+summary: Sporting events that I have attended.
 ---
 Sporting events that I have attended.
 
